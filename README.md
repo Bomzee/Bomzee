@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Bomzee
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning CS50
+- 💞️ I’m looking to upgrade my mind :)
